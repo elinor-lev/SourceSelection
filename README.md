@@ -25,3 +25,10 @@ plotargs = {'color':'0.25','label':'All','s':2}
 obj = CC.CCplot(sample,'z','r','i','g',axis=[[-1, 2.5],[-0.5, 3.5]],
                 plotpoints=False, levels = [0.2,0.90],**plotargs)
 ```
+
+
+## TODO
+
+- Make module into a class
+- Add some plots
+- Add Demo folder
