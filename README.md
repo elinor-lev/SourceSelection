@@ -1,6 +1,6 @@
 # SourceSelection
 
-Python module to build background galaxy samples for cluster weak lensing analysis.
+Python tools to build background galaxy samples for cluster weak lensing analysis.
 
 ## Requirements
 Python 2.6+, numpy, astropy, corner, scipy, matplotlib.
